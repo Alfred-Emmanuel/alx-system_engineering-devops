@@ -1,0 +1,2 @@
+#!/bin/bash
+excport PATH-$PATH:/action
